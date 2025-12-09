@@ -1,12 +1,15 @@
 👋Hi, I’m Madhumathi
 
 Software Architect | Full-Stack .NET & Angular | Cloud Architecture, Microservices & Applied AI/ML
+---
 
 I architect and build cloud-native platforms, modernize legacy systems, and help engineering teams deliver software that is secure, scalable, and future-proof. I move easily between hands-on engineering, technical strategy, and team guidance.
 
 I love solving complex problems, simplifying system design, and creating architectures that help teams ship faster with confidence.
 
-⚙️ What I Do
+
+🌟 What I Do
+---
 
 Architect microservices, event-driven workflows, and distributed systems
 
@@ -20,7 +23,8 @@ Improve system performance, observability, reliability, and operational readines
 
 Mentor developers and support teams in making sound technical choices
 
-🧱 Technical Strengths
+⚡Technical Strengths
+---
 
 Languages: C#, TypeScript, JavaScript, Python
 Frameworks: .NET Core/8, Angular, React
@@ -31,6 +35,7 @@ DevOps: GitHub Actions, CI/CD, Terraform, Docker, IaC, Monitoring & Logging
 AI/ML: Foundational knowledge in applied ML concepts, embeddings, and cloud-integrated AI capabilities
 
 🚀 What I’m Focused On Now
+---
 
 Architecting secure, scalable SaaS foundations
 
@@ -41,6 +46,7 @@ Modernizing enterprise systems into cloud-native, microservice-first platforms
 Strengthening documentation, architecture standards, and engineering practices
 
 🧭 How I Work
+---
 
 I value clarity, simplicity, and purposeful engineering.
 I believe architecture should reduce ambiguity, guide teams effectively, and enable consistent, confident delivery.
