@@ -49,4 +49,4 @@ I believe architecture should reduce ambiguity, guide teams effectively, and ena
 
 Email: madhuthilak.2008@gmail.com
 
-LinkedIn: [(add your link here)](https://www.linkedin.com/in/madhumathi-narayanan-a08b5b26/)
+LinkedIn: [Madhu](https://www.linkedin.com/in/madhumathi-narayanan-a08b5b26/)
